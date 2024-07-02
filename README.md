@@ -68,11 +68,19 @@
   <br/>
   <h2 style="color:purple" align=""><img src="https://i.ibb.co/cv1zPFL/image.png" alt="Book Icon" height="25" width="25"> <span >Current Stats </span> </h2>
 
+
   <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joweldas1&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&ring=EB0000&fire=EBD226&currStreakNum=EB0000&sideNums=EBD226&currStreakLabel=EB0000&sideLabels=EBD226&dates=EBEBEB&excludeDaysLabel=EBEBEB&border=EB545400&background=EB545400&stroke=EB545400" alt="GitHub Streak" /></a>
 </p>
 
 
 <h2 style="color:purple" align=""><img src="https://i.ibb.co/M5kwyRd/image.png" alt="Book Icon" height="25" width="25"> <span > Facts about me </span> </h2>
+
+**🔭 I'm Working:** On my own practice project. <br/>
+**🌱 I'm Exploring:** Next.js <br/>
+**👯 I'm Looking:** For a collaborative team environment where I can contribute my skills and learn from others. <br/>
+**🤔 I'm Trying:** To increase my efficiency. I'm always looking for ways to optimize my workflow and get more done in less time. <br/>
+**⚡ Fun Fact:** When I'm deeply immersed in a project, time flies! I might forget to eat or sleep, but when it's done, I can recharge with a solid 24-hour sleep session.  
+
 
 
