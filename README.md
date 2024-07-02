@@ -2,22 +2,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Jowel</h1>
-
-<h3 align="center" >A young and enthusiastic front-end developer from Bangladesh 🇧🇩, <br/> eager to learn and grow in the tech world</h3>
-
+  <h3 align="center">A young and enthusiastic front-end developer from Bangladesh 🇧🇩,<br/> eager to learn and grow in the tech world</h3>
+  
 <p align="center">
-  <img src="https://github.com/joweldas1/joweldas1/blob/main/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966.gif?raw=true" width="300" height="300" />
+  <img src="https://i.ibb.co/8mqPyvY/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f3032.gif" alt="GIF" style="height:300px; width:300px;" />
 </p>
 
-
-
-
-<br/>
 <br/>
 <br/>
 
-<h2 style="color:purple" align="center"><img src="https://i.ibb.co/PZ4B8d6/open-book.png" alt="Book Icon" height="25" width="25"> <span >Technologies that I know </span> </h2>
-
+<h2 style="color:purple" align=""><img src="https://i.ibb.co/PZ4B8d6/open-book.png" alt="Book Icon" height="25" width="25"> <span >Technologies that I know </span> </h2>
+<br/>
 
 <table  align="center">
   <tr>
@@ -32,8 +27,6 @@
     </td>
   </tr>
 </table>
-
-
 <table style="margin-left:auto; margin-right:auto;" align="center">
     <tr>
       <td align="center" style="padding: 10px;">
@@ -73,8 +66,13 @@
 
   <br/>
   <br/>
-  <h2 style="color:purple" align="center"><img src="https://i.ibb.co/cv1zPFL/image.png" alt="Book Icon" height="25" width="25"> <span >Current Stats </span> </h2>
+  <h2 style="color:purple" align=""><img src="https://i.ibb.co/cv1zPFL/image.png" alt="Book Icon" height="25" width="25"> <span >Current Stats </span> </h2>
 
   <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joweldas1&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&ring=EB0000&fire=EBD226&currStreakNum=EB0000&sideNums=EBD226&currStreakLabel=EB0000&sideLabels=EBD226&dates=EBEBEB&excludeDaysLabel=EBEBEB&border=EB545400&background=EB545400&stroke=EB545400" alt="GitHub Streak" /></a>
 </p>
+
+
+<h2 style="color:purple" align=""><img src="https://i.ibb.co/M5kwyRd/image.png" alt="Book Icon" height="25" width="25"> <span > Facts about me </span> </h2>
+
+
