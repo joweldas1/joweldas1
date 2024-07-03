@@ -80,7 +80,7 @@
 **🌱 I'm Exploring:** Next.js <br/>
 **👯 I'm Looking:** For a collaborative team environment where I can contribute my skills and learn from others. <br/>
 **🤔 I'm Trying:** To increase my efficiency. I'm always looking for ways to optimize my workflow and get more done in less time. <br/>
-**⚡ Fun Fact:** When I'm deeply immersed in a project, time flies! I might forget to eat or sleep, but when it's done, I can recharge with a solid 24-hour sleep session.  
+**⚡ Fun Fact:** When I'm deeply immersed in a project, time flies! I might forget to eat or sleep, but when it's done, I can recharge with a solid 24-hour sleep session.  <br/>
 
 
 
