@@ -1,6 +1,5 @@
 ![logo](https://github.com/joweldas1/joweldas1/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
-![Profile Views](https://komarev.com/ghpvc/?joweldas1=your-github-joweldas1&color=blueviolet)
-
+![Profile Views](https://komarev.com/ghpvc/?username=joweldas1&color=blueviolet)
 
 <h1 align="center">Hi 👋, I'm Jowel</h1>
   <h3 align="center">A young and enthusiastic front-end developer from Bangladesh 🇧🇩,<br/> eager to learn and grow in the tech world</h3>
